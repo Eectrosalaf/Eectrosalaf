@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eectrosalaf
+- 👋 Hi, I’m @Electrosalaf
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on making a responsive and agood UI Mobile Apps
