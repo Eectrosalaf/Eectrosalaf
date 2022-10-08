@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Electrosalaf
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on making a responsive and agood UI Mobile Apps
+- 💞️ I’m looking for collaboration on making a responsive and good UI Mobile Apps
 - 📫 you can reach me on +2349039932417
 
 <!---
