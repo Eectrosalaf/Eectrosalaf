@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olasunkanmi Quadri Abiodun</h1>
 <h3 align="center">A seasoned and passionate flutter developer</h3>
 
-- 🌱 I’m currently learning **javascript,node.js,Go**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **any projects**
 
