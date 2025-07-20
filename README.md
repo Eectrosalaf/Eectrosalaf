@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olasunkanmi Quadri Abiodun</h1>
 <h3 align="center">A seasoned and passionate flutter developer</h3>
 
-- 🌱 I’m currently learning **javascript,node.js**
+- 🌱 I’m currently learning **javascript,node.js,Go**
 
 - 👯 I’m looking to collaborate on **any projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Electroflutter@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NSj-Muk4HdDCMHPkojscRzJq4GVpbI76xkNFwFe0KJc/edit?tab=t.0](https://docs.google.com/document/d/1NSj-Muk4HdDCMHPkojscRzJq4GVpbI76xkNFwFe0KJc/edit?tab=t.0)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
